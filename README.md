@@ -16,7 +16,7 @@ TCP: 6587, 27015-27030, 27036-27037
 UDP: 4380, 27000-27031, 27036
 
 # Server Configuration
-You can find your "ServerSetting.ini" file in your "craftopia_ds" folder.
+You can find your "ServerSetting.ini" file in your "serverfiles" folder.
 If you want to use a password, you need to change
 
 usePassword=0 to usePassword=1
